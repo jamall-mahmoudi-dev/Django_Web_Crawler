@@ -1,4 +1,4 @@
-Here's the complete **simple and clear English version** of your README:
+
 
 ```markdown
 # Django Web Crawler
@@ -100,5 +100,3 @@ DATABASE_URL=postgres://user:pass@localhost/dbname
 ## License
 [Add your license name here, e.g., MIT]
 ```
-
-This version is clean, professional, and easy for anyone to follow. Just replace `[Add your license name here]` with your actual license (e.g., MIT, GPL, etc.) when you're ready.
