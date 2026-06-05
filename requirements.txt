@@ -1,0 +1,27 @@
+# Core
+Django==5.2.8
+
+# Database (اگر از PostgreSQL استفاده می‌کنید)
+psycopg2
+
+# HTTP & Security
+requests>=2.32.0
+urllib3>=2.0.0
+certifi>=2025.11.12
+chardet>=5.2.0
+brotli  # جایگزین brotlipy
+cryptography>=42.0.0
+pyOpenSSL>=25.0.0
+idna
+
+# HTML Processing
+beautifulsoup4
+soupsieve
+
+# Compatibility
+six
+openai==2.40.0
+
+# Other (در صورت نیاز)
+# pycparser (معمولا به عنوان وابستگی cryptography نصب می‌شود)
+# PySocks (برای استفاده از پروکسی socks)
