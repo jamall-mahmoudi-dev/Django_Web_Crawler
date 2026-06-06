@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from collections import Counter
 from string import punctuation
 
-#class Django DJ4
+#class Django 
 
 def index(request):
     form = inputform()
